@@ -2,6 +2,7 @@
 
 class Config
 {
+    
     private $HOST = "localhost";
     private $USERNAME = "root";
     private $PASSWORD = "";
